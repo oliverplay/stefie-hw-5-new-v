@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/stefie-hw-5-new-v/static/css/main.7b1350ae.css",
+    "main.js": "/stefie-hw-5-new-v/static/js/main.2f969ee1.js",
+    "static/js/384.8f738edb.chunk.js": "/stefie-hw-5-new-v/static/js/384.8f738edb.chunk.js",
+    "static/js/886.4cf0d194.chunk.js": "/stefie-hw-5-new-v/static/js/886.4cf0d194.chunk.js",
+    "static/js/729.5e76e414.chunk.js": "/stefie-hw-5-new-v/static/js/729.5e76e414.chunk.js",
+    "static/js/789.124bcd24.chunk.js": "/stefie-hw-5-new-v/static/js/789.124bcd24.chunk.js",
+    "static/js/537.37d4a788.chunk.js": "/stefie-hw-5-new-v/static/js/537.37d4a788.chunk.js",
+    "static/js/279.31e0d11f.chunk.js": "/stefie-hw-5-new-v/static/js/279.31e0d11f.chunk.js",
+    "static/media/cave-of-wonders.jpg": "/stefie-hw-5-new-v/static/media/cave-of-wonders.16ce067b90886f1b7a6e.jpg",
+    "index.html": "/stefie-hw-5-new-v/index.html",
+    "main.7b1350ae.css.map": "/stefie-hw-5-new-v/static/css/main.7b1350ae.css.map",
+    "main.2f969ee1.js.map": "/stefie-hw-5-new-v/static/js/main.2f969ee1.js.map",
+    "384.8f738edb.chunk.js.map": "/stefie-hw-5-new-v/static/js/384.8f738edb.chunk.js.map",
+    "886.4cf0d194.chunk.js.map": "/stefie-hw-5-new-v/static/js/886.4cf0d194.chunk.js.map",
+    "729.5e76e414.chunk.js.map": "/stefie-hw-5-new-v/static/js/729.5e76e414.chunk.js.map",
+    "789.124bcd24.chunk.js.map": "/stefie-hw-5-new-v/static/js/789.124bcd24.chunk.js.map",
+    "537.37d4a788.chunk.js.map": "/stefie-hw-5-new-v/static/js/537.37d4a788.chunk.js.map",
+    "279.31e0d11f.chunk.js.map": "/stefie-hw-5-new-v/static/js/279.31e0d11f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b1350ae.css",
+    "static/js/main.2f969ee1.js"
+  ]
+}
